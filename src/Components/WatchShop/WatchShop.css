@@ -1,0 +1,13 @@
+.title{
+    color:#abccba;
+    margin: 20px 0px;
+}
+.reel{
+    display: flex;
+    justify-content: space-between;
+}
+.reel video{
+    height: 450px;
+    border-radius: 20px;
+}
+

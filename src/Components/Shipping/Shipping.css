@@ -1,0 +1,11 @@
+.svg-inline--fa{
+    height: 35px;
+    width: 35px;
+}
+
+.MuiGrid-item{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+   flex-direction: column;
+}

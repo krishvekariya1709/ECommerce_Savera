@@ -1,0 +1,44 @@
+.container{
+    display: flex;
+    /* flex-direction: row; */
+    height: 195px;
+}
+.stories{
+    flex-direction: row;
+    display: flex;
+    height: 160px;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+.storie{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    border: 2px solid pink;
+    margin-left: 40px;
+}
+.storie img{
+    border-radius: 50%;
+    height: 97px;
+    width: 97px;
+    justify-content: center;
+    object-fit: cover;
+    object-position: center;
+}
+hr{
+    width: 100%;
+    background-color: #f8fef9
+}
+.DescStory {
+    font-weight: 300 !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 10px;
+    position: relative;
+    cursor:pointer;
+}
+.DescStory:hover{
+    color: #abccba;
+}

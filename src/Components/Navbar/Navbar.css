@@ -1,0 +1,40 @@
+.navbar{
+    /* background-color: #abccba; */
+    justify-content: center;
+    align-items: center;
+}
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    color: #abccba;
+}
+.nav-item{
+    margin: 0px 20px;
+}
+.brand-logo img{
+    height: 150px;
+    width: 150px;
+    /* filter: grayscale(100%); */
+}
+.signup-icon{
+    cursor: pointer;
+}
+.search-icon{
+    cursor: pointer;
+}
+.cart-icon{
+    cursor: pointer;
+}
+.signup-icon svg{
+    height: 20px;
+    width: 20px;
+}
+.search-icon svg{
+    height: 20px;
+    width: 20px;
+}
+.cart-icon svg{
+    height: 20px;
+    width: 20px;
+}
