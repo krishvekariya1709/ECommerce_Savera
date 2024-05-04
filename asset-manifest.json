@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ECommerce_Savera/static/css/main.c54a6a2d.css",
+    "main.js": "/ECommerce_Savera/static/js/main.6410b94e.js",
+    "static/js/453.68693753.chunk.js": "/ECommerce_Savera/static/js/453.68693753.chunk.js",
+    "static/media/Video1.mp4": "/ECommerce_Savera/static/media/Video1.d5191b63fea431d5f458.mp4",
+    "static/media/Video3.mp4": "/ECommerce_Savera/static/media/Video3.a8e4d6f01f61e4581064.mp4",
+    "static/media/Video4.mp4": "/ECommerce_Savera/static/media/Video4.c5d19bf4902ddaaa1fb2.mp4",
+    "static/media/Video2.mp4": "/ECommerce_Savera/static/media/Video2.b624ad54a833b90111b7.mp4",
+    "static/media/Story6.jpeg": "/ECommerce_Savera/static/media/Story6.453a7adb3d515db09597.jpeg",
+    "static/media/Story2.webp": "/ECommerce_Savera/static/media/Story2.33b845974dda22dccdeb.webp",
+    "static/media/Story5.webp": "/ECommerce_Savera/static/media/Story5.30fece6c9f73d1248a7c.webp",
+    "static/media/Story3.webp": "/ECommerce_Savera/static/media/Story3.00932991a797d732944b.webp",
+    "static/media/Story1.webp": "/ECommerce_Savera/static/media/Story1.efdeed43387db76a8ce5.webp",
+    "static/media/Story4.webp": "/ECommerce_Savera/static/media/Story4.3fb92b8a7ef2356dc39a.webp",
+    "static/media/BrandLogo.webp": "/ECommerce_Savera/static/media/BrandLogo.64999cffad838ee42afa.webp",
+    "index.html": "/ECommerce_Savera/index.html",
+    "main.c54a6a2d.css.map": "/ECommerce_Savera/static/css/main.c54a6a2d.css.map",
+    "main.6410b94e.js.map": "/ECommerce_Savera/static/js/main.6410b94e.js.map",
+    "453.68693753.chunk.js.map": "/ECommerce_Savera/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c54a6a2d.css",
+    "static/js/main.6410b94e.js"
+  ]
+}
